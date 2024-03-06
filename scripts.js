@@ -3,5 +3,5 @@ function entrar(){
 }
 
 function irHome(){
-    window.location.href = "site/home/home.html"
+    window.location.href = "site/home/home.html";
 }
