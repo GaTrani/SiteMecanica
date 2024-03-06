@@ -1,8 +1,8 @@
 function entrar(){
-    alert("botao entrar!")
+    alert("botao entrar!");
 }
 
 function irHome(){
     console.log("botao home!")
-    window.location.href = "/site/home/home.html";
+    window.location.assign("/site/home/home.html");
 }
