@@ -1,3 +1,7 @@
 function entrar(){
-    console.log("botao entrar!")
+    alert("botao entrar!")
+}
+
+function irHome(){
+    window.location.href = "site/home/home.html"
 }
